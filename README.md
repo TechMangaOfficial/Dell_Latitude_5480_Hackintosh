@@ -1,8 +1,8 @@
 # Dell-Latitude-5480-Hackintosh-Monterey-OpenCore-0.9.9
-[![macOS](https://img.shields.io/badge/macOS-Monterey-red.svg)]
-[![OpenCore](https://img.shields.io/badge/OpenCore-latest-green)]
-[![version](https://img.shields.io/badge/12.7-blue)]
-[![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)]
+![macOS](https://img.shields.io/badge/macOS-Monterey-red.svg)
+![version](https://img.shields.io/badge/12.7-blue)
+![OpenCore](https://img.shields.io/badge/OpenCore-0.9.9-green)
+![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)
 
 Provided efi is working perfectely fine and is very stable for daily use 
 #
