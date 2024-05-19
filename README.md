@@ -45,11 +45,11 @@ Patch your systems own DSDT Accordingly
 - [x] SD Card Reader (Damaged so can't test)
 - [x] Everything Else Work
 
-#Solutions 
+# Solutions 
 - [x] If your CPU usage is high try
-- [ ] ```
+   ```
 $ sudo launchctl disable gui/501/com.apple.transparencyd
-      ```
+    ```
 # Refrences
 - [dortania Hackintosh guides](https://github.com/dortania)
 
