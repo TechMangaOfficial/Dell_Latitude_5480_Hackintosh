@@ -17,7 +17,7 @@ Patch your systems own DSDT Accordingly
 - <b>Model</b>: Dell Latitude 5480
 - <b>CPU</b>: Intel(R) Core(TM) i5-6300U CPU @ 2.50GHz
 - <b>GPU</b>: Intel HD Graphics 520
-- <b>RAM</b>: 16 GB 2133MHz DDR4
+- <b>RAM</b>: 8 GB 2133MHz DDR4
 - <b>Storage</b>: 256GB SATA SSD
 - <b>Screen</b>: 14" (1920x1080)
 - <b>Wi-Fi</b>: Intel Dual Band Wireless-AC8625
@@ -47,6 +47,6 @@ Patch your systems own DSDT Accordingly
 - [x] Everything Else Work
 
 # Refrences
-- [x][dortania Hackintosh guides](https://github.com/dortania)
+- [dortania Hackintosh guides](https://github.com/dortania)
 
 
