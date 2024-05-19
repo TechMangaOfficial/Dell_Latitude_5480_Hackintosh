@@ -11,6 +11,7 @@ This repo contains the files necessary to install Monterey in Dell latitude 5480
 Patch your systems own DSDT Accordingly
 
 ![](image/monterey_2.jpg)
+![](image/monterey_1.jpg)
 
 # Specification 
 - <b>Model</b>: Dell Latitude 5480
