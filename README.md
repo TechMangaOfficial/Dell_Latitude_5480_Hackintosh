@@ -51,6 +51,6 @@ Patch your systems own DSDT Accordingly
 $ sudo launchctl disable gui/501/com.apple.transparencyd
 ```
 # Refrences
-- [dortania Hackintosh guides](https://github.com/dortania)
+- [dortania Hackintosh guides](https://dortania.github.io/OpenCore-Install-Guide/)
 
 
