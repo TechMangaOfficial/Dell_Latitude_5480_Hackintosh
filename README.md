@@ -1,6 +1,6 @@
-# Dell-Latitude-5480-Hackintosh-Monterey-OpenCore-0.9.9
-![macOS](https://img.shields.io/badge/macOS-Monterey-red.svg)
-![version](https://img.shields.io/badge/12.7-blue)
+# Dell-Latitude-5480-Hackintosh-Sonoma-OpenCore-0.9.9
+![macOS](https://img.shields.io/badge/macOS-Sonoma-green.svg)
+![version](https://img.shields.io/badge/14.5-red)
 ![OpenCore](https://img.shields.io/badge/OpenCore-0.9.9-green)
 ![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)
 
@@ -10,8 +10,7 @@ This repo contains the files necessary to install Monterey in Dell latitude 5480
 
 Patch your systems own DSDT Accordingly
 
-![](image/monterey_2.jpg)
-![](image/monterey_1.jpg)
+![](image/screenshot.png)
 
 # Specification 
 - <b>Model</b>: Dell Latitude 5480
@@ -27,26 +26,31 @@ Patch your systems own DSDT Accordingly
 
 # What's Working?
 - [x] Wi-Fi & Bluetooth 
-- [x] Intel HD 520 Graphics (with graphics acceleration)
-- [x] HDMI port (With HDMI Audio)
+- [x] Intel HD 520 Graphics (with graphics acceleration spoofed as Intel HD 620)
+- [x] HDMI port (With HDMI Audio no purple tint)
 - [x] Internel Speaker
 - [x] Headphone Jack
 - [x] Internal camera 
 - [x] Trackpad (gestures work use tap to click option)
 - [x] CPU Power Management 
 - [x] All USB ports
-- [x] Keyboard (all fn Keys)
+- [x] Keyboard (all fn Keys Brightness key works)
 - [x] Intel Ethernet port
 - [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
 - [x] DRM support 
-- [x] SD Card Reader (Damaged so can't test)
 - [x] Sleep / Wake (lid sleep and lid wake) 
 
 # What's not working ⚠️
 - [x] Airdrop (Unless you have Broadcom wifi Card)
+- [x] SD Card Reader (Damaged so can't test)
 - [x] Everything Else Work
 
+#Solutions 
+- [x] If your CPU usage is high try
+- [ ] ```
+$ sudo launchctl disable gui/501/com.apple.transparencyd
+      ```
 # Refrences
-- [x][dortania Hackintosh guides](https://github.com/dortania)
+- [dortania Hackintosh guides](https://github.com/dortania)
 
 
