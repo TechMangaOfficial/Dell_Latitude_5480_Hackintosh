@@ -47,9 +47,9 @@ Patch your systems own DSDT Accordingly
 
 # Solutions 
 - [x] If your CPU usage is high try
-   ```
+```
 $ sudo launchctl disable gui/501/com.apple.transparencyd
-    ```
+```
 # Refrences
 - [dortania Hackintosh guides](https://github.com/dortania)
 
