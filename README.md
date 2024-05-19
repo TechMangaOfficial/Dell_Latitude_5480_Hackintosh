@@ -48,6 +48,6 @@ Patch your systems own DSDT Accordingly
 - [x] Everything Else Work
 
 # Refrences
-- [dortania Hackintosh guides](https://github.com/dortania)
+- [Dortania Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 
