@@ -21,6 +21,7 @@ Patch your systems own DSDT Accordingly
 - <b>Storage</b>: 256GB SATA SSD
 - <b>Screen</b>: 14" (1920x1080)
 - <b>Wi-Fi</b>: Intel Dual Band Wireless-AC8625
+- <b>Ethernet</b>: Intel Ethernet I219-LM
 - <b>Camera</b>: 720p
 - <b>Touchpad</b>: Alpsalpine I2C
 - <b>Battery</b>: 3-cell with inside battery 
@@ -43,7 +44,7 @@ Patch your systems own DSDT Accordingly
 - [x] Sleep / Wake (lid sleep and lid wake) 
 
 # What's not working ⚠️
-- [x] Airdrop (Unless you have Broadcom wifi Card)
+- [x] Handoff, Universal control, Airdrop (Unless you have Broadcom wifi Card)
 - [x] Everything Else Work
 
 # Refrences
