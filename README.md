@@ -49,7 +49,7 @@ Patch your systems own DSDT Accordingly
 # Solutions 
 - [x] If your CPU usage is high try
 ```
-$ sudo launchctl disable gui/501/com.apple.transparencyd
+sudo launchctl disable gui/501/com.apple.transparencyd
 ```
 # Refrences
 - [Dortania Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
